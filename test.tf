@@ -1,0 +1,2 @@
+postgres:postgres
+grafana:admin
